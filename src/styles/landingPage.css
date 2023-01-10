@@ -1,0 +1,29 @@
+.selectlogintype{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(198, 221, 221);
+    text-align: center;
+    margin: 100px auto;
+    border-radius: 200px 0px;
+    /* padding-top: 30px; */
+    top: 50%;
+    
+}
+.selectlogintype  h1{
+    padding: 70px;
+    
+
+}
+.selectlogintype .btn1
+{
+    
+    border: 2px solid rgb(130, 112, 112);
+
+    justify-content: center;
+    
+}
+.selectlogintype .btn2{
+    margin: 50px;
+    border: 2px solid rgba(172, 148, 148, 0.459);
+    justify-content: center;
+}

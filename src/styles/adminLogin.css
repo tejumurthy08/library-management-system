@@ -1,0 +1,14 @@
+.form
+{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(198, 221, 221);
+    text-align: center;
+    margin: 100px auto;
+    /* padding-top: 30px; */
+    top: 50%;
+}
+.form input
+{
+    margin: 10px;
+}
